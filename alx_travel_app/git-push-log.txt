@@ -1,8 +1,0 @@
-[Sat May 24 14:17:02 +01 2025] ✅ Committed 'requirements.txt' with message 'pushing requirements to the repo with all files ready for ALX'
-[Sat May 24 14:17:05 +01 2025] ✅ Pushed commit for 'requirements.txt' to branch 'main'
-[Sat May 24 14:17:05 +01 2025] ✅ Committed 'requirement.txt' with message 'pushing requirement to the repo with all files ready for ALX'
-[Sat May 24 14:17:09 +01 2025] ✅ Pushed commit for 'requirement.txt' to branch 'main'
-[Sat May 24 14:22:19 +01 2025] ✅ Committed 'alx_travel_app/settings.py' with message 'pushing settings to the repo with all files ready for ALX'
-[Sat May 24 14:22:23 +01 2025] ✅ Pushed commit for 'alx_travel_app/settings.py' to branch 'main'
-[Sat May 24 14:22:23 +01 2025] ✅ Committed 'alx_travel_app/urls.py' with message 'pushing urls to the repo with all files ready for ALX'
-[Sat May 24 14:22:27 +01 2025] ✅ Pushed commit for 'alx_travel_app/urls.py' to branch 'main'
